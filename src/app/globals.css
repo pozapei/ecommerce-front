@@ -4,6 +4,7 @@
 
 body {
   color: white;
+  overflow: hidden;
 }
 
 @custom-variant dark (&:is(.dark *));
